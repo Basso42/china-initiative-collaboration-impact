@@ -1,0 +1,4 @@
+pyalex 
+networkx 
+matplotlib 
+scipy
