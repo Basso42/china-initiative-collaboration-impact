@@ -2,3 +2,8 @@ pyalex
 networkx 
 matplotlib 
 scipy
+polars
+
+#graph
+igraph
+pycairo
