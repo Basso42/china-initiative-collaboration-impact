@@ -5,5 +5,8 @@ else
     echo "File already exists, skipping download."
 fi
 
+sudo apt update
+sudo apt install libcairo2-dev pkg-config python3-cairo -y
+
 pip install -r requirements.txt
 
