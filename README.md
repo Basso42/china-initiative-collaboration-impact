@@ -16,6 +16,7 @@ To set up the environment and download the dataset automatically, run the follow
 
 ```bash
 bash init.sh
-
+```
 ## License
+
 This project is released under the MIT License.
