@@ -17,6 +17,9 @@ To set up the environment and download the dataset automatically, run the follow
 ```bash
 bash init.sh
 ```
+
+The ```main.ipynb``` notebook contains all the code necessary to reproduce the figures, tables, and analyses presented in the study.
+
 ## License
 
 This project is released under the MIT License.
